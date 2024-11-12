@@ -18,7 +18,7 @@
 
 ## Example
 
-When you are in need of sagemath in a folder, simply type ``, and you will get into the container:
+When you are in need of sagemath in a folder, simply type `sagemath-docker`, and you will get into the container:
 
 ![](./.github/example.png)
 
